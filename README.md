@@ -1,2 +1,2 @@
 # EquityDebtAdvisorApp
-This application gives Equity Debt Advisor based on user inputs
+This application gives Equity Debt Advisor based on user input

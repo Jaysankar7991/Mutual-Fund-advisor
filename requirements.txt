@@ -1,7 +1,4 @@
 streamlit
-openai==0.28
-httpx==0.23.0
-fastapi
-uvicorn
-sse-starlette
+httpx
 pydantic
+# any other libraries your app needs

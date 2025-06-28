@@ -1,6 +1,7 @@
 import streamlit as st
 from kite_mcp_client import KiteMCPClient
 
+
 # Title and intro
 st.title("AI-Powered Equity & Debt Advisor")
 st.write("Enter your investment preferences to get a personalized recommendation.")
